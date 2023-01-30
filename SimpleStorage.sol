@@ -40,3 +40,5 @@ contract SimpleStorage {
         return people;
     }
 }
+
+// Setting up meta mask, test net, faucets tokens etc
